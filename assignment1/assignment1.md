@@ -10,7 +10,7 @@ The regular user can perform the following operations:
 - Add/update/view client information (name, identity card number, personal numerical code, address, etc.).
 - Create/update/delete/view client account (account information: identification number, type, amount of money, date of creation).
 - money between accounts.
-- Process utilities bills.
+- Process utilities bills (represented as money transfer to some predefined accounts of utility companies - e.g., gas, electricity, internet).
 
 The administrator user can perform the following operations:
 - CRUD on employees’ information.
@@ -27,7 +27,7 @@ The administrator user can perform the following operations:
 - Implementation & documentation files committed & pushed on GitHub
 
 ## References
-- [Martin Fowler et. al, Patterns of Enterprise Application Architecture, Addison Wesley, 2003](http://training.hasintech.com/download/attachments/1802696/Patterns%20of%20Enterprise%20Application%20Architecture%20-%20Martin%20Fowler.pdf?version=1&modificationDate=1464702352696&api=v2)
+- [Martin Fowler et. al, Patterns of Enterprise Application Architecture, Addison Wesley, 2003](http://ce.sharif.edu/courses/97-98/2/ce418-1/resources/root/Books/Patterns%20of%20Enterprise%20Application%20Architecture%20-%20Martin%20Fowler.pdf)
 - [Java Swing UI](https://docs.oracle.com/javase/tutorial/uiswing/)
 - [JavaFx](https://docs.oracle.com/javase/8/javafx/get-started-tutorial/index.html)
 - [.NET apps](https://docs.microsoft.com/en-us/dotnet/framework/develop-client-apps)
